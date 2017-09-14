@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joey Kirk</title>
+    <title>Josh Lee</title>
     <atom:link href="0.0.0.0/feed.xml" rel="self" type="application/rss+xml"/>
     <link>0.0.0.0/</link>
     <description>A website with blog posts and pages</description>
-    <pubDate>2017-09-07 13:14:22 -0700</pubDate>
+    <pubDate>2017-09-12 13:22:40 -0700</pubDate>
     
       <item>
         <title>Sample post</title>
